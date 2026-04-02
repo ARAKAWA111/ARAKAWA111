@@ -21,5 +21,6 @@
 情報処理学会第87回全国大会, March 2025. [[paper](https://moguranosenshi.sakura.ne.jp/publications/ipsj87-arakawa.pdf)]
 
 # Achievement
+* E資格取得 (2025/08)
 * 情報処理学会第87回年次大会 学生奨励賞 (2025/03)
-* E資格取得 (2026/08)
+
